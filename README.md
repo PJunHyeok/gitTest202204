@@ -1,2 +1,3 @@
-"hello 2022-04-15" 
-수정
+#gitTest202204
+
+나의 첫 git test
